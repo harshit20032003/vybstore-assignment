@@ -2,4 +2,4 @@ run commands:
 npm i
 npm run dev
 
-hosted link:-
+hosted link:- https://q-steel-psi.vercel.app/
