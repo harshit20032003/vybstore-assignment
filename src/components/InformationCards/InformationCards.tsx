@@ -1,6 +1,5 @@
 "use client"
 
-import LoginForm from '@/app/small components/LoginForm';
 import { useRouter } from 'next/navigation';
 import React, { useEffect, useRef, useState } from 'react'
 
@@ -59,7 +58,7 @@ const InformationCards = () => {
         </div>
         <div style={{backgroundColor:"#60d46c",transform:"rotate(1deg)"}} className='flex mt-5 sticky top-0 items-center rounded-2xl py-4 px-5'>
         <div className=''>
-            <h2 className='mb-5 max-md:text-2xl'>"Monetize your influencer status: Earn money adding real value to your true followers!"</h2>
+            <h2 className='mb-5 max-md:text-2xl'>&quot;Monetize your influencer status: Earn money adding real value to your true followers!&quot;</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae quis quod itaque deleniti maiores impedit</p>
         </div>
         <div className='min-w-64 h-72 rounded-2xl grid place-items-center'>

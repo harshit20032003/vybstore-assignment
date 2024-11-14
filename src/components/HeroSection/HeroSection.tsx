@@ -17,7 +17,7 @@ const HeroSection = () => {
         <h1 style={{backgroundColor:"#00DC82"}} className='hero-section-text'>Influencers</h1>
     </div>
     <h1 style={{lineHeight:"46px"}} className='font-semibold pr-24 hero-section-paragraph max-xl:pr-0'>
-    "Unleash Your Influence: Sell Itineraries, Build Your Brand, Create Merch, and Share Content All in One Hub."
+    &quot;Unleash Your Influence Sell Itineraries, Build Your Brand, Create Merch, and Share Content All in One Hub.&quot;
     </h1>
     <div className='flex gap-5 items-center max-xl:mb-5'>
         <ButtonGreen title={"Demo Store"} />
