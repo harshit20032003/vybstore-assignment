@@ -37,7 +37,7 @@ const FaqAccordian = () => {
 ]
   return (
     <div style={{fontFamily:"Urbanist"}} className='flex font-medium mt-10 items-center max-md:flex-col'>
-        <div className='w-1/2 max-md:w-fit max-md:text-center'><h1 style={{color:"#00DC82"}} className='max-md:my-2'>FREQUENTLY ASKED QUESTIONS</h1><p className='text-lg max-md:my-4 '>Quick answers to questions you may have. Cant find what you're looking for?
+        <div className='w-1/2 max-md:w-fit max-md:text-center'><h1 style={{color:"#00DC82"}} className='max-md:my-2'>FREQUENTLY ASKED QUESTIONS</h1><p className='text-lg max-md:my-4 '>Quick answers to questions you may have. Cant find what youre looking for?
         <br/>Check out our full documentation</p></div>
         <div className='w-1/2 max-md:w-fit'>
         {accordianData.map((data)=>{
