@@ -4,35 +4,35 @@ import React from 'react'
 const FaqAccordian = () => {
     const accordianData = [{
         question:"How much does it cost to set up a store?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"What kind of digital products can I sell?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"Do I need technical skills to use the platform?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"Is there a limit to the number of products I can list?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"How do I receive payments for my sales?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"Can I sell internationally on this marketplace?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"What support and resources are available for sellers?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
     {
         question:"Is there a review process for uploaded products?",
-        answer:"No, not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. It's as simple as a few clicks to get started!"
+        answer:"No not at all! Our platform is designed with user-friendliness in mind. You can easily navigate and set up your store without any technical expertise. Its as simple as a few clicks to get started!"
     },
 ]
   return (

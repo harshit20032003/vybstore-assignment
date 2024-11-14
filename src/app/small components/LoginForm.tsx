@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { z } from 'zod';
 import { zodResolver } from '@hookform/resolvers/zod';
-import ButtonGradient from './ButtonGradient';
 import { FcGoogle } from "react-icons/fc";
 const schema = z.object({
   email: z.string().email({ message: "Invalid email address" }),

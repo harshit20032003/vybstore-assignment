@@ -6,7 +6,6 @@ import InformationGrid from "@/components/InformationGrid/InformationGrid";
 import Navbar from "@/components/Navbar/Navbar";
 import OurInfluencerGrid from "@/components/OurInfluencerGrid/OurInfluencerGrid";
 import TravelSection from "@/components/TravelSection/TravelSection";
-import Image from "next/image";
 
 export default function Home() {
   return (
